@@ -21,13 +21,18 @@ export class AppComponent {
       url: '/list',
       icon: 'list'
     },
-    {  
+    {
       title : 'Post',
       url : '/post',
       icon : 'star'
-    }
+    },
+    {
+      title : 'Login',
+      url: '/login',
+      icon: 'star'
+    },
   ];
-    
+
 
 
   constructor(
